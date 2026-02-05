@@ -1,0 +1,3 @@
+diogo;diogo@gmail.com;558778555
+maria;maria@gmail.com;5787857857
+joao;joao@gmail.com;5785785785

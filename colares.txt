@@ -1,0 +1,4 @@
+ColarPontodeLuz;878;119.90;1;Silver;True;16;
+ColardePerola;789;199.90;1;Luxo;True;26;
+ColarCruz;788;139.90;1;Premiun;True;19;
+ColarCravejado;498;259.90;1;Cravejado;True;17;

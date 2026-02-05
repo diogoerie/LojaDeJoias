@@ -1,0 +1,4 @@
+AnelCravejadoZirconea;355;115.90;1;True;True;18;gold;
+AnelCravejadoZirconea;385;199.90;1;True;False;13;Prata;
+AnelCravejadoZirconea;395;195.90;1;True;True;15;Luxo;
+AnelCravejadoZirconea;315;219.90;1;True;False;16;Premium;

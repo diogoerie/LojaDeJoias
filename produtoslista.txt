@@ -1,0 +1,4 @@
+O;Diogo;dioogo@gmail.com;21211010;1;546;
+A;AnelCravejadoZirconea;305;105.90;1;True;False;13;gold;
+C;ColarPontoLuz;402;109.90;2;Silver;True;16;
+P;PulseiraZirconea;501;205.90;1;Luxo;True;True;25;

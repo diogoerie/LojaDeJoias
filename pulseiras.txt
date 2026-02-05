@@ -1,0 +1,4 @@
+pulseiraCravejada;1056;89;2;Luxo;True;True;35;
+pulseiraCoracao;1054;115;1;Prata;True;True;30;
+pulseiraEntralacada;555;199;1;Padrao;True;True;40;
+PulseiraZirconea;501;205.90;1;Premium;True;True;25;
